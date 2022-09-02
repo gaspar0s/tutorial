@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> TUTORIAL2 GAS</title>
+</head>
+<body>
+<h1>Where do I live?</h1>
+<p>I was born in Murcia, Spain. In this web tutorial I'll show you what my hometown looks like!. Murcia is located in the south east of Spain and just half an hour away from the coast. We have plenty of typical dishes such as "migas" or "paparajotes".</p>
+<img src="images/MURCIA.jpg"><img src="images/MAPAMURCIA.jpg"><img src=images/Migas_Murcianas.jpg"><img src="images/PAPARAJOTES.jpg">
+
+
+
+
+
+
+
+
+</body>
+</html>
